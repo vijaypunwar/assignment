@@ -1,6 +1,6 @@
 # assignment
 
-A new Flutter project.
+A flutter project assignment.
 
 ## Getting Started
 
